@@ -28,9 +28,10 @@ Tools and Technologies Used
 SQL: Used for querying and managing the sales data from the company's database.
 
 Power BI: Employed to visualize the sales data and create an interactive dashboard.
-Methodology
 
-*The project follows the STAR method:*
+*Methodology*
+
+The project follows the STAR method:
 
 Situation: The computer hardware business was facing challenges in scaling within a dynamically changing market and lacked actionable insights.
 
